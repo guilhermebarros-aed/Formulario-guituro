@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Guituro</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <p>Esse formulário é sobre como criar sites do zero, sem usar IA e programando.</p> 
+
+    <h2>Estrutura Básica do HTML</h2>
+    <p>O HTML começa com <code>&lt;!DOCTYPE html&gt;</code>.</p>
+    <p>Dentro da tag <code>&lt;html&gt;</code>, há duas seções principais:</p>
+    <ul>
+        <li><strong>Cabeçalho (<code>&lt;head&gt;</code>):</strong> onde ficam o título e links para CSS/JS.</li>
+        <li><strong>Corpo (<code>&lt;body&gt;</code>):</strong> onde fica o conteúdo visível da página.</li>
+    </ul>
+
+    <h2>Elementos Comuns</h2>
+    <ul>
+        <li>Parágrafos: <code>&lt;p&gt;</code></li>
+        <li>Cabeçalhos: <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, etc.</li>
+        <li>Links: <code>&lt;a href="URL"&gt;Texto&lt;/a&gt;</code></li>
+        <li>Imagens: <code>&lt;img src="caminho" alt="descrição"&gt;</code></li>
+    </ul>
+
+    <h2>Exemplo de Imagem</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Manoel_Gomes_em_2023.jpg" alt="Manoel Gomes" width="300">
+</body>
+</html>
